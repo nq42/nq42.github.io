@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tool on NQ</title><link>https://nq42.github.io/tags/tool/</link><description>Recent content in Tool on NQ</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>©2024 N.Q</copyright><lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nq42.github.io/tags/tool/index.xml" rel="self" type="application/rss+xml"/><item><title>Tools for contact/collect form submissions</title><link>https://nq42.github.io/tool/contact-form/</link><pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate><guid>https://nq42.github.io/tool/contact-form/</guid><description>Here are tools for embeding your contact/collect form for your static site, no backend code is required.
-Web3Forms # The free plan can create unlimited forms and 250 form submissions /month.</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nq42.github.io/tool/contact-form/featured.jpg"/></item><item><title>Common Markdown Syntax</title><link>https://nq42.github.io/tool/markdown/</link><pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate><guid>https://nq42.github.io/tool/markdown/</guid><description>Markdown is a simple and easy-to-use markup language for creating formatted text using a plain-text editor.
-Headings # There are 6 level heading options.
-# Heading level 1 ## Heading level 2 ### Heading level 3 #### Heading level 4 ##### Heading level 5 ###### Heading level 6 Output: There is a space between # and the heading name.</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nq42.github.io/tool/markdown/featured.jpg"/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tool on NQ</title><link>https://nq42.github.io/tags/tool/</link><description>Recent content in Tool on NQ</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>©2024 N.Q</copyright><lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nq42.github.io/tags/tool/index.xml" rel="self" type="application/rss+xml"/><item><title>Tools for contact/collect form submissions</title><link>https://nq42.github.io/tech/230908_contact_form/</link><pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate><guid>https://nq42.github.io/tech/230908_contact_form/</guid><description>&lt;p>Here are tools for embeding your contact/collect form for your static site, no backend code is required.&lt;/p>
+&lt;h3 class="relative group">&lt;a href="https://web3forms.com/" target="_blank">
+Web3Forms&lt;/a>
+&lt;div id="web3formshttpsweb3formscom" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#web3formshttpsweb3formscom" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>The free plan can create &lt;strong>unlimited&lt;/strong> forms and &lt;strong>250&lt;/strong> form submissions /month.
+Check premium plans &lt;a href="https://web3forms.com/pricing" target="_blank">
+here&lt;/a>.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nq42.github.io/tech/230908_contact_form/featured.jpg"/></item><item><title>Common Markdown Syntax</title><link>https://nq42.github.io/tech/230901_markdown/</link><pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate><guid>https://nq42.github.io/tech/230901_markdown/</guid><description>&lt;p>Markdown is a simple and easy-to-use markup language for creating formatted text using a plain-text editor.&lt;/p>
+&lt;h2 class="relative group">Headings
+&lt;div id="headings" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#headings" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>There are 6 level heading options.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nq42.github.io/tech/230901_markdown/featured.jpg"/></item></channel></rss>
